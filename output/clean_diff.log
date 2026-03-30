@@ -1,5 +1,53 @@
+2026-03-30 14:50:03,355 [INFO] 日本脳卒中学会: no significant content changed
+2026-03-30 14:50:03,355 [INFO] URL: https://www.jsts.gr.jp/index.html
+2026-03-30 14:50:03,355 [INFO] Change Window: 2026-03-30 14:47:14,502 -> 2026-03-30 14:50:03,355
+2026-03-30 14:50:03,409 [INFO] 日本脳卒中学会ガイドライン: no significant content changed
+2026-03-30 14:50:03,409 [INFO] URL: https://www.jsts.gr.jp/stroke_guidelines/index.html
+2026-03-30 14:50:03,409 [INFO] Change Window: 2026-03-30 14:47:14,558 -> 2026-03-30 14:50:03,409
+2026-03-30 14:50:03,840 [INFO] 日本循環器学会: no significant content changed
+2026-03-30 14:50:03,840 [INFO] URL: https://www.j-circ.or.jp/topics/
+2026-03-30 14:50:03,840 [INFO] Change Window: 2026-03-30 14:47:14,976 -> 2026-03-30 14:50:03,840
+2026-03-30 12:59:08,113 [INFO] 日本循環器学会ガイドライン: content changed (cleaned)
+2026-03-30 12:59:08,113 [INFO] URL: https://www.j-circ.or.jp/guideline/guideline-series/
+2026-03-30 12:59:08,113 [INFO] Change Window: 2026-03-25 14:34:17,052 -> 2026-03-30 12:59:08,113
+2026-03-30 12:59:08,113 [INFO] Diff for 日本循環器学会ガイドライン.txt:
+--- previous
++++ current
+@@ cleaned @@
++正誤表
+2026-03-30 14:45:21,589 [INFO] 日本内科学会: content changed (cleaned)
+2026-03-30 14:45:21,589 [INFO] URL: https://jams.med.or.jp/index.html
+2026-03-30 14:45:21,589 [INFO] Change Window: 2026-03-30 12:59:08,169 -> 2026-03-30 14:45:21,589
+2026-03-30 14:45:21,589 [INFO] Diff for 日本内科学会.txt:
+--- previous
++++ current
+@@ cleaned @@
++2022年3月30日 第8回日本医学会分科会利益相反会議 議事要旨（動画含む）を掲載しました。
+2026-03-30 12:59:08,435 [INFO] 日本感染症学会: content changed (cleaned)
+2026-03-30 12:59:08,435 [INFO] URL: https://www.kansensho.or.jp/
+2026-03-30 12:59:08,435 [INFO] Change Window: 2026-03-25 14:34:17,416 -> 2026-03-30 12:59:08,435
+2026-03-30 12:59:08,435 [INFO] Diff for 日本感染症学会.txt:
+--- previous
++++ current
+@@ cleaned @@
+-2026年3月19日 NEW
++2026年3月27日 NEW
++学会から
++体外診断薬「キャピリア® MAC抗体ELISA」の販売一時中止 解除につきまして
++2026年3月19日
+-2026年1月15日
+-関連団体
+-エリスロマイシン、エリスロシン供給不足に対する本学会の見解（一般社団法人日本結核・非結核性抗酸菌症学会）
+2026-03-25 12:56:12,688 [INFO] 日本感染症学会ガイドライン: content changed (cleaned)
+2026-03-25 12:56:12,688 [INFO] URL: https://www.kansensho.or.jp/modules/guidelines/index.php?content_id=2
+2026-03-25 12:56:12,688 [INFO] Change Window: 2026-03-25 12:50:52,418 -> 2026-03-25 12:56:12,688
+2026-03-25 12:56:12,688 [INFO] Diff for 日本感染症学会ガイドライン.txt:
+--- previous
++++ current
+@@ cleaned @@
+-ガイドライン・提言｜ガイドライン・提言｜日本感染症学会
++ガイドライン INDEX｜ガイドライン・提言｜日本感染症学会
 2026-03-30 12:59:06,721 [INFO] Yahoo!ニューストピックリスト: content changed (cleaned)
-2026-03-30 12:59:06,721 [INFO] URL: https://news.yahoo.co.jp/topics/
 2026-03-30 12:59:06,721 [INFO] Change Window: 2026-03-25 14:34:15,454 -> 2026-03-30 12:59:06,721
 2026-03-30 12:59:06,721 [INFO] Diff for Yahoo!ニューストピックリスト.txt:
 --- previous
@@ -182,7 +230,6 @@
 +「みんな戦争が無い平和な世界で生きたいだけ」“戦争反対”発信巡る論議にアイドルが私見
 +日刊スポーツ 3/30(月) 11:28
 2026-03-30 12:59:06,924 [INFO] 厚生労働省最新情報: content changed (cleaned)
-2026-03-30 12:59:06,924 [INFO] URL: https://www.mhlw.go.jp/stf/new-info/
 2026-03-30 12:59:06,924 [INFO] Change Window: 2026-03-25 14:34:15,935 -> 2026-03-30 12:59:06,924
 2026-03-30 12:59:06,924 [INFO] Diff for 厚生労働省最新情報.txt:
 --- previous
@@ -309,7 +356,6 @@
 -採用情報
 -厚生労働省（デジタル・電気・電子区分） 霞が関ＯＰＥＮゼミ
 2026-03-30 12:59:06,997 [INFO] 日本経済新聞: content changed (cleaned)
-2026-03-30 12:59:06,997 [INFO] URL: https://www.nikkei.com/news/category/
 2026-03-30 12:59:06,997 [INFO] Change Window: 2026-03-25 14:34:16,033 -> 2026-03-30 12:59:06,997
 2026-03-30 12:59:06,997 [INFO] Diff for 日本経済新聞.txt:
 --- previous
@@ -769,63 +815,3 @@
 -▼あなたの年収は平均より高いのか？ 【年収調査2025】出身大学別年収ランキング ８大学までが1000万円を超えた！
 +NIKKEIリスキリング
 +セミナーレポート ことばがスラスラ出てくる！「言語化力」を鍛える3STEPトレーニング
-2026-03-30 12:59:07,203 [INFO] 日本脳卒中学会: no significant content changed
-2026-03-30 12:59:07,203 [INFO] URL: https://www.jsts.gr.jp/index.html
-2026-03-30 12:59:07,203 [INFO] Change Window: 2026-03-25 14:34:16,163 -> 2026-03-30 12:59:07,203
-2026-03-30 12:59:07,250 [INFO] 日本脳卒中学会ガイドライン: no significant content changed
-2026-03-30 12:59:07,250 [INFO] URL: https://www.jsts.gr.jp/stroke_guidelines/index.html
-2026-03-30 12:59:07,250 [INFO] Change Window: 2026-03-25 14:34:16,236 -> 2026-03-30 12:59:07,250
-2026-03-30 12:59:07,753 [INFO] 日本循環器学会: content changed (cleaned)
-2026-03-30 12:59:07,753 [INFO] URL: https://www.j-circ.or.jp/topics/
-2026-03-30 12:59:07,753 [INFO] Change Window: 2026-03-25 14:34:16,695 -> 2026-03-30 12:59:07,753
-2026-03-30 12:59:07,753 [INFO] Diff for 日本循環器学会.txt:
---- previous
-+++ current
-@@ cleaned @@
-+2026/03/27
-+CJ・CR×ジャーナルクラブオンライン(JCO) 第5弾コラボ動画公開！！
--2026/02/28
--CJ・CR×ジャーナルクラブオンライン(JCO) 第4弾コラボ動画公開！！
-2026-03-30 12:59:08,113 [INFO] 日本循環器学会ガイドライン: content changed (cleaned)
-2026-03-30 12:59:08,113 [INFO] URL: https://www.j-circ.or.jp/guideline/guideline-series/
-2026-03-30 12:59:08,113 [INFO] Change Window: 2026-03-25 14:34:17,052 -> 2026-03-30 12:59:08,113
-2026-03-30 12:59:08,113 [INFO] Diff for 日本循環器学会ガイドライン.txt:
---- previous
-+++ current
-@@ cleaned @@
-+正誤表
-2026-03-30 12:59:08,169 [INFO] 日本内科学会: content changed (cleaned)
-2026-03-30 12:59:08,169 [INFO] URL: https://jams.med.or.jp/index.html
-2026-03-30 12:59:08,169 [INFO] Change Window: 2026-03-25 14:34:17,145 -> 2026-03-30 12:59:08,169
-2026-03-30 12:59:08,169 [INFO] Diff for 日本内科学会.txt:
---- previous
-+++ current
-@@ cleaned @@
--2026年3月17日 2025年度日本医学会への新規加盟学会は日本小児内分泌学会に決定しました。
-+2026年3月17日 2025年度日本医学会への新規加盟学会は 日本小児内分泌学会 に決定しました。
--加盟144分科会の詳細情報
-+加盟145分科会の詳細情報
-2026-03-30 12:59:08,435 [INFO] 日本感染症学会: content changed (cleaned)
-2026-03-30 12:59:08,435 [INFO] URL: https://www.kansensho.or.jp/
-2026-03-30 12:59:08,435 [INFO] Change Window: 2026-03-25 14:34:17,416 -> 2026-03-30 12:59:08,435
-2026-03-30 12:59:08,435 [INFO] Diff for 日本感染症学会.txt:
---- previous
-+++ current
-@@ cleaned @@
--2026年3月19日 NEW
-+2026年3月27日 NEW
-+学会から
-+体外診断薬「キャピリア® MAC抗体ELISA」の販売一時中止 解除につきまして
-+2026年3月19日
--2026年1月15日
--関連団体
--エリスロマイシン、エリスロシン供給不足に対する本学会の見解（一般社団法人日本結核・非結核性抗酸菌症学会）
-2026-03-25 12:56:12,688 [INFO] 日本感染症学会ガイドライン: content changed (cleaned)
-2026-03-25 12:56:12,688 [INFO] URL: https://www.kansensho.or.jp/modules/guidelines/index.php?content_id=2
-2026-03-25 12:56:12,688 [INFO] Change Window: 2026-03-25 12:50:52,418 -> 2026-03-25 12:56:12,688
-2026-03-25 12:56:12,688 [INFO] Diff for 日本感染症学会ガイドライン.txt:
---- previous
-+++ current
-@@ cleaned @@
--ガイドライン・提言｜ガイドライン・提言｜日本感染症学会
-+ガイドライン INDEX｜ガイドライン・提言｜日本感染症学会
