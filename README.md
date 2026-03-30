@@ -6,7 +6,7 @@
 3. `scripts/detect_diff.py` は `description` をキーにテキストスナップショットを保存し、差分を `output/diff.log` に追記します。
 4. `scripts/clean_diff.py` は `output/diff.log` から URL（description）ごとの直近 `content changed` を抽出し、並べ替え差分を除外して `output/clean_diff.log` を生成します。
 5. `scripts/analyse_diff.py` は `output/clean_diff.log` を Gemini で要約し、`output/gemini_summary.md` を生成します。
-6. `scripts/investigate_page.py` は `output/gemini_summary.md` を読み、変更あり対象の URL を再取得して詳細要約し、`output/investigate_page.md` を生成します。
+6. `scripts/investigate_page.py` は `output/gemini_summary.md` を読み、変更あり対象の URL を再取得して、新規追加・変更・削除のみを `分野 / タイトル / 運用開始日 / 詳細 / 参照URL` 形式で `output/investigate_page.md` に出力します（ガイドライン関連は詳細ページやPDFリンクを優先参照）。
 
 ## 補足
 1. `urls.csv` の行順が変わっても、`description` で紐づけるため動作します。
