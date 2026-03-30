@@ -19,6 +19,7 @@ def main() -> None:
     run_step("scripts/detect_diff.py")
     run_step("scripts/clean_diff.py")
     run_step("scripts/analyse_diff.py")
+    run_step("scripts/investigate_page.py")
     print("すべての処理が完了しました")
 
 
