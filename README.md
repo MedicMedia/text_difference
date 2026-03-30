@@ -1,4 +1,4 @@
-# html_difference
+# text_difference
 
 ## 使い方
 1. `data/urls.csv` に監視したい URL を `url,description` 形式で記入します。
